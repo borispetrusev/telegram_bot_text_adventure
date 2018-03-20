@@ -1,8 +1,8 @@
 from enum import Enum
 
-token = '563920986:AAEq9PZMvR0FFsTLnpUX3UfoDxO4sr_B2P4'
-quest_db = '/Users/borispetrusev/PycharmProjects/telegrambot/venv/db_quest'
-user_state_db = '/Users/borispetrusev/PycharmProjects/telegrambot/venv/db_user_state.vdb'
+token = ''
+quest_db = '/db_quest'
+user_state_db = '/db_user_state.vdb'
 
 class States(Enum):
 
